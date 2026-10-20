@@ -1,0 +1,15 @@
+{
+  "name": "lingolink",
+  "displayName": "LingoLink",
+  "version": "1.0.0",
+  "description": "Free, honest translation helper: the host AI translates text, keeps names, code, URLs and numbers, flags risky passages, offers back-translation checks and an Auto-SAP mode.",
+  "author": {
+    "name": "Rob Domaine / Omnipotent Media LLC"
+  },
+  "publisher": "Omnipotent Media LLC",
+  "homepage": "https://github.com/OmnipotentCEOxJenny/lingolink",
+  "repository": "https://github.com/OmnipotentCEOxJenny/lingolink",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["translation", "translator", "languages", "multilingual", "back-translation", "auto-sap", "i18n"]
+}
