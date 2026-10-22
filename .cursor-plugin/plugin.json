@@ -1,7 +1,7 @@
 {
   "name": "lingolink",
   "displayName": "LingoLink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Free, honest translation helper: the host AI translates text, keeps names, code, URLs and numbers, flags risky passages, offers back-translation checks and an Auto-SAP mode.",
   "author": {
     "name": "Rob Domaine / Omnipotent Media LLC"
