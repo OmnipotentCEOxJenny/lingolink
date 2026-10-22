@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""LingoLink check_preserved.py (v1.0.0). Python 3 standard library only.
+"""LingoLink check_preserved.py (v1.0.2). Python 3 standard library only.
 Checks that URLs, numbers and code spans in a source text appear unchanged in a translation.
 Usage: python3 check_preserved.py SOURCE_FILE TRANSLATION_FILE   (exit 0 = all preserved, 1 = something missing)
 Limits: it checks exact text only; it cannot judge meaning, and numbers written as words or with
 localized separators (1.000 vs 1,000) are reported as missing so a human can look."""
 import re, sys
+
+VERSION = "1.0.2"  # keep equal to .cursor-plugin/plugin.json
 
 URL = re.compile(r"https?://[^\s<>\"')\]]+")
 CODE = re.compile(r"```.*?```|`[^`\n]+`", re.S)
@@ -26,6 +28,8 @@ def check(src, dst):
     return missing
 
 def main(argv):
+    if len(argv) == 2 and argv[1] == "--version":
+        print(VERSION); return 0
     if len(argv) != 3:
         print(__doc__); return 2
     src = open(argv[1], encoding="utf-8").read()
