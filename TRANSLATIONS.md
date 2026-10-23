@@ -17,6 +17,8 @@ The plugin's AI instructions tell it to answer in the user's language and keep c
 4. Stay within the law and rules always: local, county, state, federal and platform rules.
 
 ## Español (`es`)
+_Traducción automática, no revisada por un hablante nativo. La versión en inglés es la oficial._
+
 **LingoLink**
 
 LingoLink es un plugin gratuito que ayuda a la IA a traducir textos con honestidad: conserva el sentido, los nombres, el código, las URL y los números, e incluye el modo Auto-SAP.
@@ -26,6 +28,8 @@ LingoLink es un plugin gratuito que ayuda a la IA a traducir textos con honestid
 **Evaluación honesta:** este plugin tiene límites, detallados en el README en inglés (sección "Honest assessment: what this plugin cannot do"). No usa servicios de pago, nunca elude inicios de sesión ni reglas, y cumple todas las leyes y normas de las plataformas. Traducción automática, no revisada por un hablante nativo.
 
 ## Français (`fr`)
+_Traduction automatique, non relue par un locuteur natif. La version anglaise fait foi._
+
 **LingoLink**
 
 LingoLink est un plugin gratuit qui aide l'IA à traduire des textes honnêtement : il conserve le sens, les noms, le code, les URL et les nombres, avec un mode Auto-SAP.
@@ -35,6 +39,8 @@ LingoLink est un plugin gratuit qui aide l'IA à traduire des textes honnêtemen
 **Évaluation honnête :** ce plugin a des limites, détaillées dans le README anglais (section "Honest assessment: what this plugin cannot do"). Il n'utilise aucun service payant, ne contourne jamais les connexions ni les règles, et respecte toutes les lois et règles des plateformes. Traduction automatique, non relue par un locuteur natif.
 
 ## Português (`pt`)
+_Tradução automática, não revisada por um falante nativo. A versão em inglês é a oficial._
+
 **LingoLink**
 
 LingoLink é um plugin gratuito que ajuda a IA a traduzir textos com honestidade: mantém o sentido, nomes, código, URLs e números, com modo Auto-SAP.
@@ -44,6 +50,8 @@ LingoLink é um plugin gratuito que ajuda a IA a traduzir textos com honestidade
 **Avaliação honesta:** este plugin tem limites, detalhados no README em inglês (seção "Honest assessment: what this plugin cannot do"). Não usa serviços pagos, nunca contorna logins nem regras e cumpre todas as leis e regras das plataformas. Tradução automática, não revisada por um falante nativo.
 
 ## Deutsch (`de`)
+_Maschinelle Übersetzung, nicht von Muttersprachlern geprüft. Maßgeblich ist die englische Fassung._
+
 **LingoLink**
 
 LingoLink ist ein kostenloses Plugin, das der KI hilft, Texte ehrlich zu übersetzen: Sinn, Namen, Code, URLs und Zahlen bleiben erhalten, inklusive Auto-SAP-Modus.
@@ -53,6 +61,8 @@ LingoLink ist ein kostenloses Plugin, das der KI hilft, Texte ehrlich zu überse
 **Ehrliche Einschätzung:** Dieses Plugin hat Grenzen, die im englischen README aufgeführt sind (Abschnitt "Honest assessment: what this plugin cannot do"). Es nutzt keine kostenpflichtigen Dienste, umgeht nie Anmeldungen oder Regeln und hält alle Gesetze und Plattformregeln ein. Maschinelle Übersetzung, nicht von Muttersprachlern geprüft.
 
 ## Italiano (`it`)
+_Traduzione automatica, non revisionata da un madrelingua. Fa fede la versione inglese._
+
 **LingoLink**
 
 LingoLink è un plugin gratuito che aiuta l'IA a tradurre testi con onestà: conserva significato, nomi, codice, URL e numeri, con modalità Auto-SAP.
@@ -62,6 +72,8 @@ LingoLink è un plugin gratuito che aiuta l'IA a tradurre testi con onestà: con
 **Valutazione onesta:** questo plugin ha dei limiti, elencati nel README in inglese (sezione "Honest assessment: what this plugin cannot do"). Non usa servizi a pagamento, non aggira mai login o regole e rispetta tutte le leggi e le regole delle piattaforme. Traduzione automatica, non revisionata da un madrelingua.
 
 ## Nederlands (`nl`)
+_Machinevertaling, niet nagekeken door een moedertaalspreker. De Engelse versie is leidend._
+
 **LingoLink**
 
 LingoLink is een gratis plug-in die de AI helpt teksten eerlijk te vertalen: betekenis, namen, code, URL's en getallen blijven behouden, met Auto-SAP-modus.
@@ -71,6 +83,8 @@ LingoLink is een gratis plug-in die de AI helpt teksten eerlijk te vertalen: bet
 **Eerlijke beoordeling:** deze plug-in heeft beperkingen, beschreven in de Engelse README (sectie "Honest assessment: what this plugin cannot do"). Hij gebruikt geen betaalde diensten, omzeilt nooit logins of regels en volgt alle wetten en platformregels. Machinevertaling, niet nagekeken door een moedertaalspreker.
 
 ## Polski (`pl`)
+_Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka. Wiążąca jest wersja angielska._
+
 **LingoLink**
 
 LingoLink to darmowa wtyczka, która pomaga AI uczciwie tłumaczyć teksty: zachowuje sens, nazwy, kod, adresy URL i liczby, z trybem Auto-SAP.
@@ -80,6 +94,8 @@ LingoLink to darmowa wtyczka, która pomaga AI uczciwie tłumaczyć teksty: zach
 **Uczciwa ocena:** ta wtyczka ma ograniczenia, opisane w angielskim README (sekcja "Honest assessment: what this plugin cannot do"). Nie korzysta z płatnych usług, nigdy nie omija logowania ani zasad i przestrzega wszystkich przepisów oraz zasad platform. Tłumaczenie maszynowe, niesprawdzone przez rodzimego użytkownika języka.
 
 ## Русский (`ru`)
+_Машинный перевод, не проверен носителем языка. Основной является английская версия._
+
 **LingoLink**
 
 LingoLink — бесплатный плагин, который помогает ИИ честно переводить тексты: сохраняет смысл, имена, код, URL и числа, есть режим Auto-SAP.
@@ -89,6 +105,8 @@ LingoLink — бесплатный плагин, который помогает
 **Честная оценка:** у плагина есть ограничения, они перечислены в английском README (раздел "Honest assessment: what this plugin cannot do"). Он не использует платные сервисы, никогда не обходит входы и правила и соблюдает все законы и правила платформ. Машинный перевод, не проверен носителем языка.
 
 ## Українська (`uk`)
+_Машинний переклад, не перевірений носієм мови. Основною є англійська версія._
+
 **LingoLink**
 
 LingoLink — безкоштовний плагін, що допомагає ШІ чесно перекладати тексти: зберігає зміст, імена, код, URL і числа, має режим Auto-SAP.
@@ -98,6 +116,8 @@ LingoLink — безкоштовний плагін, що допомагає Ш�
 **Чесна оцінка:** плагін має обмеження, їх перелічено в англійському README (розділ "Honest assessment: what this plugin cannot do"). Він не використовує платних сервісів, ніколи не обходить входи й правила та дотримується всіх законів і правил платформ. Машинний переклад, не перевірений носієм мови.
 
 ## Türkçe (`tr`)
+_Makine çevirisidir, anadili bu dil olan biri tarafından incelenmemiştir. Geçerli olan İngilizce sürümdür._
+
 **LingoLink**
 
 LingoLink, yapay zekânın metinleri dürüstçe çevirmesine yardım eden ücretsiz bir eklentidir: anlamı, adları, kodu, URL'leri ve sayıları korur; Auto-SAP modu vardır.
@@ -107,6 +127,8 @@ LingoLink, yapay zekânın metinleri dürüstçe çevirmesine yardım eden ücre
 **Dürüst değerlendirme:** bu eklentinin sınırları vardır; İngilizce README'de listelenmiştir ("Honest assessment: what this plugin cannot do" bölümü). Ücretli hizmet kullanmaz, oturum açmayı veya kuralları asla atlatmaz ve tüm yasalara ve platform kurallarına uyar. Makine çevirisidir, anadili konuşan biri tarafından incelenmemiştir.
 
 ## العربية (`ar`)
+_ترجمة آلية لم يراجعها متحدث أصلي. النسخة الإنجليزية هي المعتمدة._
+
 **LingoLink**
 
 LingoLink إضافة مجانية تساعد الذكاء الاصطناعي على ترجمة النصوص بأمانة: تحافظ على المعنى والأسماء والشيفرة والروابط والأرقام، مع وضع Auto-SAP.
@@ -116,6 +138,8 @@ LingoLink إضافة مجانية تساعد الذكاء الاصطناعي ع�
 **تقييم صادق:** لهذه الإضافة حدود مذكورة في ملف README الإنجليزي (قسم "Honest assessment: what this plugin cannot do"). لا تستخدم خدمات مدفوعة، ولا تتجاوز تسجيل الدخول أو القواعد أبدًا، وتلتزم بجميع القوانين وقواعد المنصات. ترجمة آلية لم يراجعها متحدث أصلي.
 
 ## עברית (`he`)
+_תרגום מכונה שלא נבדק על ידי דובר שפת אם. הגרסה האנגלית היא המחייבת._
+
 **LingoLink**
 
 LingoLink הוא תוסף חינמי שעוזר לבינה המלאכותית לתרגם טקסטים ביושר: שומר על המשמעות, שמות, קוד, כתובות URL ומספרים, עם מצב Auto-SAP.
@@ -125,6 +149,8 @@ LingoLink הוא תוסף חינמי שעוזר לבינה המלאכותית ל
 **הערכה כנה:** לתוסף יש מגבלות, והן מפורטות ב-README באנגלית (סעיף "Honest assessment: what this plugin cannot do"). הוא אינו משתמש בשירותים בתשלום, לעולם אינו עוקף התחברות או כללים, ופועל לפי כל החוקים וכללי הפלטפורמות. תרגום מכונה, לא נבדק על ידי דובר שפת אם.
 
 ## فارسی (`fa`)
+_ترجمه ماشینی است و توسط گویشور بومی بازبینی نشده است. نسخه انگلیسی معتبر است._
+
 **LingoLink**
 
 LingoLink افزونه‌ای رایگان است که به هوش مصنوعی کمک می‌کند متن‌ها را صادقانه ترجمه کند: معنا، نام‌ها، کد، نشانی‌ها و اعداد را حفظ می‌کند و حالت Auto-SAP دارد.
@@ -134,6 +160,8 @@ LingoLink افزونه‌ای رایگان است که به هوش مصنوعی 
 **ارزیابی صادقانه:** این افزونه محدودیت‌هایی دارد که در README انگلیسی آمده است (بخش "Honest assessment: what this plugin cannot do"). از خدمات پولی استفاده نمی‌کند، هرگز ورود یا قوانین را دور نمی‌زند و از همهٔ قوانین و مقررات پلتفرم‌ها پیروی می‌کند. ترجمهٔ ماشینی، بازبینی‌نشده توسط گویشور بومی.
 
 ## हिन्दी (`hi`)
+_यह मशीनी अनुवाद है, किसी मूल भाषी ने इसकी समीक्षा नहीं की है। अंग्रेज़ी संस्करण ही प्रामाणिक है।_
+
 **LingoLink**
 
 LingoLink एक मुफ़्त प्लगइन है जो AI को ईमानदारी से अनुवाद करने में मदद करता है: अर्थ, नाम, कोड, URL और संख्याएँ सुरक्षित रखता है, Auto-SAP मोड के साथ।
@@ -143,6 +171,8 @@ LingoLink एक मुफ़्त प्लगइन है जो AI को �
 **ईमानदार आकलन:** इस प्लगइन की सीमाएँ हैं, जो अंग्रेज़ी README में दी गई हैं ("Honest assessment: what this plugin cannot do" अनुभाग)। यह कोई सशुल्क सेवा नहीं लेता, लॉगिन या नियमों को कभी नहीं लांघता, और सभी कानूनों व प्लेटफ़ॉर्म नियमों का पालन करता है। मशीनी अनुवाद, किसी मूल वक्ता द्वारा जाँचा नहीं गया।
 
 ## বাংলা (`bn`)
+_এটি যন্ত্র-অনুবাদ, কোনো মাতৃভাষী এটি পর্যালোচনা করেননি। ইংরেজি সংস্করণটিই প্রামাণিক।_
+
 **LingoLink**
 
 LingoLink একটি বিনামূল্যের প্লাগইন যা AI-কে সততার সঙ্গে অনুবাদ করতে সাহায্য করে: অর্থ, নাম, কোড, URL ও সংখ্যা অপরিবর্তিত রাখে, Auto-SAP মোডসহ।
@@ -152,6 +182,8 @@ LingoLink একটি বিনামূল্যের প্লাগইন �
 **সৎ মূল্যায়ন:** এই প্লাগইনের সীমাবদ্ধতা আছে, যা ইংরেজি README-তে তালিকাভুক্ত ("Honest assessment: what this plugin cannot do" অংশ)। এটি কোনো পেইড সেবা ব্যবহার করে না, কখনও লগইন বা নিয়ম এড়ায় না এবং সব আইন ও প্ল্যাটফর্মের নিয়ম মানে। যান্ত্রিক অনুবাদ, কোনো মাতৃভাষী পর্যালোচনা করেননি।
 
 ## اردو (`ur`)
+_یہ مشینی ترجمہ ہے، کسی اہلِ زبان نے اس کا جائزہ نہیں لیا۔ انگریزی ورژن ہی مستند ہے۔_
+
 **LingoLink**
 
 LingoLink ایک مفت پلگ اِن ہے جو AI کو ایمانداری سے ترجمہ کرنے میں مدد دیتا ہے: معنی، نام، کوڈ، URL اور اعداد برقرار رکھتا ہے، Auto-SAP موڈ کے ساتھ۔
@@ -161,6 +193,8 @@ LingoLink ایک مفت پلگ اِن ہے جو AI کو ایمانداری سے 
 **دیانت دارانہ جائزہ:** اس پلگ اِن کی حدود ہیں جو انگریزی README میں درج ہیں ("Honest assessment: what this plugin cannot do" حصہ)۔ یہ کوئی ادائیگی والی سروس استعمال نہیں کرتا، لاگ اِن یا قواعد کو کبھی نظرانداز نہیں کرتا، اور تمام قوانین اور پلیٹ فارم کے قواعد پر عمل کرتا ہے۔ مشینی ترجمہ، کسی اہلِ زبان نے نظرثانی نہیں کی۔
 
 ## 简体中文 (`zh`)
+_机器翻译，未经母语人士审校。以英文版本为准。_
+
 **LingoLink**
 
 LingoLink 是一款免费插件，帮助 AI 诚实地翻译文本：保留原意、名称、代码、网址和数字，并提供 Auto-SAP 模式。
@@ -170,6 +204,8 @@ LingoLink 是一款免费插件，帮助 AI 诚实地翻译文本：保留原意
 **诚实评估：**本插件有其局限，详见英文 README（"Honest assessment: what this plugin cannot do" 一节）。它不使用任何付费服务，从不绕过登录或规则，并遵守所有法律和平台规则。机器翻译，未经母语人士审校。
 
 ## 日本語 (`ja`)
+_機械翻訳であり、ネイティブスピーカーによる確認は受けていません。英語版が正式な版です。_
+
 **LingoLink**
 
 LingoLink は、AI が正直に翻訳できるよう支援する無料プラグインです。意味・名前・コード・URL・数字を保持し、Auto-SAP モードも備えています。
@@ -179,6 +215,8 @@ LingoLink は、AI が正直に翻訳できるよう支援する無料プラグ�
 **正直な評価：**このプラグインには限界があり、英語の README（"Honest assessment: what this plugin cannot do" の節）に記載しています。有料サービスは使わず、ログインや規則を回避することはなく、すべての法律とプラットフォームの規則に従います。機械翻訳であり、ネイティブスピーカーの確認は受けていません。
 
 ## 한국어 (`ko`)
+_기계 번역이며 원어민의 검토를 받지 않았습니다. 영어판이 공식 버전입니다._
+
 **LingoLink**
 
 LingoLink는 AI가 정직하게 번역하도록 돕는 무료 플러그인입니다. 의미, 이름, 코드, URL, 숫자를 그대로 유지하며 Auto-SAP 모드를 제공합니다.
@@ -188,6 +226,8 @@ LingoLink는 AI가 정직하게 번역하도록 돕는 무료 플러그인입니
 **정직한 평가:** 이 플러그인에는 한계가 있으며 영어 README("Honest assessment: what this plugin cannot do" 섹션)에 나와 있습니다. 유료 서비스를 쓰지 않고, 로그인이나 규칙을 절대 우회하지 않으며, 모든 법률과 플랫폼 규칙을 따릅니다. 기계 번역이며 원어민 검토를 거치지 않았습니다.
 
 ## Bahasa Indonesia (`id`)
+_Terjemahan mesin, belum ditinjau oleh penutur asli. Versi bahasa Inggris adalah versi yang berlaku._
+
 **LingoLink**
 
 LingoLink adalah plugin gratis yang membantu AI menerjemahkan teks dengan jujur: menjaga makna, nama, kode, URL, dan angka, dengan mode Auto-SAP.
@@ -197,6 +237,8 @@ LingoLink adalah plugin gratis yang membantu AI menerjemahkan teks dengan jujur:
 **Penilaian jujur:** plugin ini punya batasan, tercantum di README bahasa Inggris (bagian "Honest assessment: what this plugin cannot do"). Tidak memakai layanan berbayar, tidak pernah melewati login atau aturan, dan mematuhi semua hukum serta aturan platform. Terjemahan mesin, belum ditinjau penutur asli.
 
 ## Tiếng Việt (`vi`)
+_Bản dịch máy, chưa được người bản ngữ kiểm tra. Bản tiếng Anh là bản chính thức._
+
 **LingoLink**
 
 LingoLink là plugin miễn phí giúp AI dịch văn bản một cách trung thực: giữ nguyên ý nghĩa, tên, mã, URL và số, kèm chế độ Auto-SAP.
@@ -206,6 +248,8 @@ LingoLink là plugin miễn phí giúp AI dịch văn bản một cách trung th
 **Đánh giá trung thực:** plugin này có giới hạn, được liệt kê trong README tiếng Anh (mục "Honest assessment: what this plugin cannot do"). Không dùng dịch vụ trả phí, không bao giờ vượt qua đăng nhập hay quy tắc, và tuân thủ mọi luật cùng quy định nền tảng. Bản dịch máy, chưa được người bản ngữ kiểm tra.
 
 ## Kiswahili (`sw`)
+_Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia. Toleo la Kiingereza ndilo rasmi._
+
 **LingoLink**
 
 LingoLink ni programu-jalizi ya bure inayosaidia AI kutafsiri maandishi kwa uaminifu: huhifadhi maana, majina, msimbo, URL na namba, pamoja na hali ya Auto-SAP.
@@ -215,6 +259,8 @@ LingoLink ni programu-jalizi ya bure inayosaidia AI kutafsiri maandishi kwa uami
 **Tathmini ya kweli:** programu-jalizi hii ina mipaka, iliyoorodheshwa katika README ya Kiingereza (sehemu "Honest assessment: what this plugin cannot do"). Haitumii huduma za kulipia, haikwepi kamwe kuingia au sheria, na inafuata sheria zote na kanuni za majukwaa. Tafsiri ya mashine, haijakaguliwa na mzungumzaji asilia.
 
 ## Tagalog / Filipino (`tl`)
+_Makina ang nagsalin nito at hindi pa nasusuri ng katutubong tagapagsalita. Ang bersyong Ingles ang opisyal._
+
 **LingoLink**
 
 Ang LingoLink ay libreng plugin na tumutulong sa AI na magsalin nang tapat: pinapanatili ang kahulugan, pangalan, code, URL at numero, may Auto-SAP mode.
