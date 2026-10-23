@@ -5,7 +5,7 @@ description: "Auto-SAP mode, like the SAP button on a TV: the user sets a native
 
 # Auto-SAP mode
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
+Follow `rules/scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
 
 1. **Set the native language once.** Use the language the user states. If none is stated, infer it from the language the user writes in and confirm: "Auto-SAP: native language = <language>. Correct?" Do not start until confirmed. The setting lasts for this conversation (or the host's memory, if the host offers it); say which.
 2. **Automatic from then on.** For every piece of content the user shares or the host AI reads (pasted text, files, web pages or tool results the host AI loads):

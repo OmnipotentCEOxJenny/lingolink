@@ -5,7 +5,7 @@ description: "Translate text between languages honestly: keep meaning, tone, nam
 
 # Translate text
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
+Follow `rules/scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
 
 1. **Identify** the source language (say "Detected: <language>"; if unsure, say so and ask) and the target language.
 2. **Protect** before translating: names, brands, code spans and blocks, URLs, e-mail addresses, numbers, dates, units, hashtags and @handles stay exactly as written. Right-to-left text (Arabic, Hebrew, Persian, Urdu) keeps embedded Latin items and numbers in their original form.

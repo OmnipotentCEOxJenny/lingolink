@@ -5,7 +5,7 @@ description: "Handle a request for any language, including ones outside the 23 d
 
 # Any language on request
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
+Follow `rules/scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
 
 1. **Do not refuse.** Explain once, briefly: the 23 languages are only the plugin's own documentation; the translation is done by the host AI, which covers many more languages.
 2. **Translate** with `skills/translate-text` and label it: "Machine translation (LingoLink, host AI), pending native review. Not certified or official."

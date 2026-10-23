@@ -5,7 +5,7 @@ description: "Check a translation by translating it back into the source languag
 
 # Back-translation check
 
-Follow `rules/pillars-and-scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
+Follow `rules/scope.mdc`. Answer in the user's language; keep commands, file names and status labels unchanged.
 
 1. Translate the translation back into the source language without looking at the original wording.
 2. Compare sentence by sentence; report MATCH, SHIFT (meaning or tone changed, with detail) or LOSS (content missing).

@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.5 (2026-10-23)
+- Remove internal notes from the README, translations, rule file (renamed to `rules/scope.mdc` where applicable) and skills. Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.4 (2026-10-23)
 - Translations: each language section in TRANSLATIONS.md now starts with a one-line notice in that language saying it is a machine translation, not reviewed by a native speaker, and that the English version is authoritative. README Languages section notes this. No behavior changes.
 - Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
@@ -17,4 +20,4 @@
 - No behavior changes to skills or rules.
 
 ## 1.0.0 (2026-10-20)
-- First release: translate-text, back-translation-check and auto-sap-mode skills; pillars and translation rule; check_preserved.py (standard library only); worked examples; logo; title, description and specific limits in 23 languages (machine-made, not native-reviewed).
+- First release: translate-text, back-translation-check and auto-sap-mode skills; translation rule; check_preserved.py (standard library only); worked examples; logo; title, description and specific limits in 23 languages (machine-made, not native-reviewed).

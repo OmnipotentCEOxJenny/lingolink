@@ -54,18 +54,12 @@ Nothing is downloaded and no language packs are installed.
 - Builder: Jenny Echo
 - LingoLink is independent and is not endorsed by xAI or Anysphere (Cursor).
 
-## Rob Domaine's four pillars
-1. Trustworthy, honest, real data, truthful: never invent; anything unchecked is marked UNVERIFIED.
-2. Use only legitimate means: legitimate, proven sources and methods; unreliable sources rejected.
-3. Double-check everything: every finding is confirmed by two independent checks, and the report shows both.
-4. Stay within the law and rules always: local, county, state, federal and platform rules.
-
 ## Components
 - `skills/translate-text`: honest translation with protected items and FLAG lines.
 - `skills/back-translation-check`: back-translation comparison and a check of preserved items.
 - `skills/auto-sap-mode`: automatic translation into the user's native language.
 - `skills/add-language`: any language on request; updates `languages.json`.
-- `rules/pillars-and-scope.mdc`: Rob Domaine's four pillars, translation rules and language rules.
+- `rules/scope.mdc`: translation rules and language rules.
 - `languages.json`: 23 documented languages and the languages users have added (user-editable).
 - `scripts/check_preserved.py`: Python 3 standard library only; checks URLs, numbers and code spans.
 - `TRANSLATIONS.md`: title, description and specific limits in 23 languages (machine-made).
