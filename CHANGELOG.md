@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 (2026-10-23)
+- Search keywords: 34 to 40 (added AutoSap, KeepTone, IdiomFlags, RightToLeft, NativeLanguage, AnyLanguage), per Rob's keyword rules.
+- Local tests re-run and passed. Not tested in-app. Not submitted to the marketplace.
+
 ## 1.0.2 (2026-10-22)
 - `scripts/check_preserved.py` now reports version 1.0.2 (`--version`), matching the plugin version (it said 1.0.0).
 - `.gitignore` added: ignores Python cache folders (`__pycache__/`, `*.pyc`).
